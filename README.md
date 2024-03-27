@@ -17,12 +17,16 @@ Ensure you have Python installed along with the necessary libraries. You can ins
 
 ```bash
 pip install pandas scikit-learn tensorflow
+
 git clone https://github.com/thebmf/Email_Spam_Classification.git
+
 cd Email_Spam_Classification
+
 jupyter notebook spam_classification.ipynb
 ```
 ## Features
 
-- **Email Preprocessing and Text Normalization
-- **Training a Machine Learning Model to Classify Emails
-- **Evaluating the Model's Performance on Unseen Data
+- **Email Preprocessing and Text Normalization**
+- **Training a Machine Learning Model to Classify Emails**
+- **Evaluating the Model's Performance on Unseen Data**
+
