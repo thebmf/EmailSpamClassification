@@ -22,6 +22,8 @@ git clone https://github.com/thebmf/Email_Spam_Classification.git
 
 cd Email_Spam_Classification
 
+pip install -r requirements.txt
+
 jupyter notebook spam_classification.ipynb
 ```
 ## Features
